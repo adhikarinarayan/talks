@@ -1,4 +1,4 @@
-### DIgitalDetoxBot: LLM for Mental health issues
+### DigitalDetoxBot: LLM for Mental health issues
 
 Date: 29/03/2024
 
